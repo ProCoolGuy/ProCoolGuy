@@ -1,19 +1,16 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Blockchain | Full stack developer</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full stack | Blockchian developer</h2>
   <p>
   Hi there<br>
   <br><br>
-Hi. I am rich experienced and professional full stack & blockchain developer with 7+ years of valuable experience in developing complex web applications (Front-End, Back-End) and blockchain projects. Familiar and adept in working with large applications, complex REST API, mobile applications using web technologies, finding out the best business and tech solutions for a project. Strong leadership skills and ability to work in a team and independently, properly distribute the load and perform tasks on time.<br><br>
-  I love to code. What started as a hobby turned into a career and a great passion of mine as I love to learn new things every day. I enjoy problem solving and reverse engineering. I'm excellent at communication and a great team player. 
-My main skills are: <br><br>
+Hi. I am rich experienced and professional full stack & blockchain developer with 7+ years of vast experience in developing complex web applications (Front-End, Back-End) and blockchain projects. Familiar and adept in working with large applications, complex REST API, blockchain applications, and mobile applications using web technologies, finding out the best business and tech solutions for a project. Strong leadership skills and ability to work in a team and independently, properly distribute the load and perform tasks on time.<br><br>
+  I love to code. What started as a hobby turned into a career and a great passion of mine as I love to learn new things every day. I enjoy problem solving and reverse engineering. I'm excellent at communication and a great team player. <br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
-</p>
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <b> 🎬 I am ready to start your project right now.</b>
 <br />
 
 <div align=center><h2>Languages & Tools I Know...</h2></div>
+
 > Programming languages.
 
 <p>
@@ -96,3 +93,8 @@ My main skills are: <br><br>
         <br>
         <br>
     </div>
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=ProCoolGuy.ProCoolGuy"/>
+<br>
+<img alt="image" height="85" src="canada.png"/>
+</p>
