@@ -96,5 +96,6 @@ Hi. I am rich experienced and professional full stack & blockchain developer wit
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=ProCoolGuy.ProCoolGuy"/>
 <br>
+<br>
 <img alt="image" height="85" src="canada.png"/>
 </p>
